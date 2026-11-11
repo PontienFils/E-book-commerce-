@@ -1,0 +1,6 @@
+{
+  "name": "Mabele Livres - Librairie Congolaise",
+  "description": "Plateforme e-commerce et librairie numérique pour les œuvres classiques et contemporaines de la littérature congolaise avec navigation intuitive, paiements Mobile Money et gestion auteurs 70/30.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
